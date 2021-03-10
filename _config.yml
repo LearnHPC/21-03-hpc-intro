@@ -39,10 +39,10 @@ local:
   bash_shebang: "#!/usr/bin/env bash"
 
 remote:
-  name: "custom.learnhpc.eu"
-  login: "login1.custom.learnhpc.eu"
-  host: "login1.int.custom.learnhpc.eu"
-  node: "node1.int.custom.learnhpc.eu"
+  name: "heibrids.learnhpc.eu"
+  login: "login1.heibrids.learnhpc.eu"
+  host: "login1.int.heibrids.learnhpc.eu"
+  node: "node1.int.heibrids.learnhpc.eu"
   location: "Cloud resource"
   homedir: "/home"
   user: "yourUsername"
